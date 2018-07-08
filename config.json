@@ -1,10 +1,10 @@
 {
   "locals": {
-    "title": "My SelfSteem Blog",
-    "description": "A shiny blog powered by the steem blockchain",
-    "author": "Santa Claus",
-    "username": "donkeypong",
-    "copyright": "© 2017",
+    "title": "Philip Kirkbride",
+    "description": "Exploring blockchain, life, the universe, and everying.",
+    "author": "Philip Kirkbride",
+    "username": "kirkins",
+    "copyright": "© 2018",
     "server": "https://api.steemit.com",
     "locale": "en",
     "release": "2"
