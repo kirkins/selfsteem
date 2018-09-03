@@ -90,6 +90,7 @@ export function renderPost(post: Discussion, preview: boolean = false): HTMLElem
         }
     } else {
         postBody.appendChild(body)
+        document.title = post.title;
     }
 
     return element
